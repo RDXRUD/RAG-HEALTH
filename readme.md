@@ -1,5 +1,6 @@
 
 # 🧠 RAG-HEALTH: WHO-focused Retrieval-Augmented Generation System
+project link: https://drive.google.com/file/d/1e15xKkPw1KtUhfN2a43LJ2b7T8nXV2RV/view?usp=drive_link
 
 RAG-HEALTH is an end-to-end intelligent question-answering system designed for the healthcare domain. It leverages **Retrieval-Augmented Generation (RAG)** to retrieve information from trusted documents and generate accurate, explainable answers using state-of-the-art LLMs via the **Groq API**.
 
